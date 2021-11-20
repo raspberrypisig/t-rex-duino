@@ -1,5 +1,7 @@
 # T-Rex-duino
 
+
+
 <img width="350" align="right" src="img/t-rex-demo-3.gif" />
 
 Clone of T-rex game from Chrome browser rewritten for Arduino.
